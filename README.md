@@ -10,51 +10,54 @@
 
 - 🚀 I’m currently doing **Competitive Programming.** 
 
-- 📫 How to reach me **darshanparmar263@gmail.com**
+- 📫 How to reach me: **darshanparmar263@gmail.com**
 
-<br><br>
+<br>
 
 ## 🟢Coding Profile!
 
-<!-- <h3 align="left">Connect with me:</h3> -->
+<a href="https://www.hackerrank.com/darshankparmar" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="https://www.hackerrank.com/darshankparmar" /></a>
+<a href="https://www.codechef.com/users/darshankparmar" target="_blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="https://www.codechef.com/users/darshankparmar" /></a>
+<a href="https://codeforces.com/profile/darshankparmar" target="_blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="https://codeforces.com/profile/darshankparmar" /></a>
+<a href="https://leetcode.com/darshankparmar/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="https://leetcode.com/darshankparmar/" /></a>
+
 <br>
-<p align="left">
 
-<a href="https://www.hackerrank.com/darshankparmar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/darshankparmar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/darshankparmar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/darshankparmar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/darshankparmar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/darshankparmar" height="30" width="40" /></a>
-<a href="https://leetcode.com/darshankparmar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/darshankparmar/" height="30" width="40" /></a>
+## 🚀 Languages:
 
-<br><br>
-
-## 🚀 Languages and Tools:
-<br>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+<a href="https://www.php.net/docs.php" target="_blank"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> </a> 
+<a href="https://devdocs.io/c/" target="_blank"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" /> </a> 
+<a href="https://devdocs.io/cpp/" target="_blank"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" /> </a> 
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" /> </a> 
+<a href="https://devdocs.io/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a> 
+<a href="https://devdocs.io/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a> 
+<a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /> </a> 
+<a href="https://devdocs.io/typescript/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> </a> 
+<a href="https://devdocs.io/python/" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python" /> </a> 
+  
+  
+## 🚀 Frameworks, libraries, databases, etc.
+ 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a>
+<a href="https://angular.io/docs" target="_blank"> <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular" /> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node" /> </a>
+<a href="https://docs.djangoproject.com/en/4.0/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" /> </a>
+<a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".net" /> </a>
+<a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a> 
   
 
-<br><br>
+<br>
 
 ## Connect with me:
-<p align="left">
 
-<a href = "https://www.linkedin.com/in/darshankparmar/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/darshankparmar" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/darshankparmar/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCFfOzjv9f09VMSZbMzPis2Q" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/darshankparmar/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
+<a href = "https://twitter.com/darshankparmar" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" /></a>
+<a href = "https://www.instagram.com/darshankparmar/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
+<a href = "https://www.youtube.com/channel/UCFfOzjv9f09VMSZbMzPis2Q" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" /></a>
+<a href = "mailto:darshanparmar263@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
 
-</p>
 
 
 <!--
