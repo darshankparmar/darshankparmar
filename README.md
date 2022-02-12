@@ -46,9 +46,13 @@
 <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a> 
-  
 
 <br>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshankparmar&theme=codeSTACKr&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darshankparmar&theme=codeSTACKr&show_icons=true" />
+</div>
 
 ## Connect with me:
 
