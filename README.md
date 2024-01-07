@@ -1,4 +1,4 @@
-<div align="center"><a href="#"><img src="https://user-images.githubusercontent.com/67963288/148515686-941a08d2-55b9-4c09-93ca-7d2034aac37c.png" height="275px"/></a></div>
+<!--<div align="center"><a href="#"><img src="https://user-images.githubusercontent.com/67963288/148515686-941a08d2-55b9-4c09-93ca-7d2034aac37c.png" height="275px"/></a></div>-->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Darshan.</h1>
 <h3 align="center">I'm a passionate about Learning New Technology In CS field.</h3>
