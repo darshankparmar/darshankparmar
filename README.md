@@ -1,80 +1,64 @@
-<!--<div align="center"><a href="#"><img src="https://user-images.githubusercontent.com/67963288/148515686-941a08d2-55b9-4c09-93ca-7d2034aac37c.png" height="275px"/></a></div>-->
+# Hi there, I'm Darshan Parmar! 👋
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Darshan.</h1>
-<h3 align="center">I'm a passionate about Learning New Technology In CS field.</h3>
+🚀 **Software Development Engineer | Full Stack Developer**
 
+## About Me 🏆
+I'm a passionate Software Development Engineer specializing in building scalable web applications. I love designing and implementing robust solutions that enhance user experience and operational efficiency. With expertise in **Angular, React, .NET Core, Node.js, and AWS**, I constantly strive to improve my skills and learn new technologies.
 
-## 🙋‍♂️ About Me
+🌍 Based in **Surat, India** <br />
+💼 Currently working at **Matrix Comsec Pvt. Ltd.** <br />
+🎓 **B.Tech in Computer Engineering** from Dharmsinh Desai University <br />
+📫 Reach me at **[darshanparmar.dev@gmail.com](mailto:darshanparmar.dev@gmail.com)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+---
 
-- 🚀 I’m currently doing **Competitive Programming.** 
+## 🔥 Skills & Expertise
 
-- 📫 How to reach me: **darshanparmar263@gmail.com**
+- **Frontend**: Angular, React, WPF
+- **Backend**: .NET Core, Node.js, Django
+- **Databases**: SQL, MongoDB
+- **Cloud & DevOps**: AWS (EC2, Amplify), Docker
+- **Protocols & Security**: WebRTC, OAuth PKCE, OWASP Compliance, BACNET
+- **Other**: WebSockets, RTSP Streaming, Socket Programming
 
-<br>
+---
 
-## 🟢Coding Profile!
+## 🏆 Professional Experience
 
-<a href="https://www.hackerrank.com/darshankparmar" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="https://www.hackerrank.com/darshankparmar" /></a>
-<a href="https://www.codechef.com/users/darshankparmar" target="_blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="https://www.codechef.com/users/darshankparmar" /></a>
-<a href="https://codeforces.com/profile/darshankparmar" target="_blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="https://codeforces.com/profile/darshankparmar" /></a>
-<a href="https://leetcode.com/darshankparmar/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="https://leetcode.com/darshankparmar/" /></a>
+### **Matrix Comsec Pvt. Ltd.** *(2023 - Present)*
+- Developed **real-time video streaming** features using WebRTC & HLS.
+- Implemented **OAuth-based authentication** for enhanced security.
+- Designed scalable **microservices architecture** for multi-tenancy applications.
+- Integrated **BACNET protocol** for building automation systems.
 
-<br>
+### **Mitram Group** *(2021 - 2022)*
+- Built an **event management portal** with a QR Code-based validation system.
+- Integrated **UPI payment gateway** for seamless transactions.
+- Deployed a **scalable AWS-based application** handling 600+ real-time users.
 
-## 🚀 Languages:
+---
 
-<a href="https://www.php.net/docs.php" target="_blank"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> </a> 
-<a href="https://devdocs.io/c/" target="_blank"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" /> </a> 
-<a href="https://devdocs.io/cpp/" target="_blank"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" /> </a> 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#" /> </a> 
-<a href="https://devdocs.io/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a> 
-<a href="https://devdocs.io/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a> 
-<a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /> </a> 
-<a href="https://devdocs.io/typescript/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> </a> 
-<a href="https://devdocs.io/python/" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python" /> </a> 
-  
-  
-## 🚀 Frameworks, libraries, databases, etc.
- 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a>
-<a href="https://angular.io/docs" target="_blank"> <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular" /> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node" /> </a>
-<a href="https://docs.djangoproject.com/en/4.0/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" /> </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".net" /> </a>
-<a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a> 
+## 🚀 Projects & Contributions
 
-<br>
+🔹 **[Bhagavad Gita App](https://github.com/darshankparmar/Bhagavad-Gita)** – An interactive web app to explore and study the Bhagavad Gita. <br />
+🔹 **[Event Management System](https://github.com/darshankparmar/event-management)** – A full-stack MERN app for event registration and ticketing. <br />
+🔹 **[OAuth Authentication Server](https://github.com/darshankparmar/auth-server)** – Secure authentication system using PKCE.
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshankparmar&theme=codeSTACKr&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=darshankparmar&theme=codeSTACKr&show_icons=true" />
-</div>
+---
 
-## Connect with me:
+## 📈 GitHub Stats
 
-<a href = "https://www.linkedin.com/in/darshankparmar/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-<a href = "https://twitter.com/darshankparmar" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" /></a>
-<a href = "https://www.instagram.com/darshankparmar/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
-<a href = "https://www.youtube.com/channel/UCFfOzjv9f09VMSZbMzPis2Q" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" /></a>
-<a href = "mailto:darshanparmar263@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshankparmar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshankparmar&layout=compact&theme=radical)
 
+---
 
+## 📫 Connect with Me!
 
-<!--
-**darshankparmar/darshankparmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshankparmar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshankparmar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/darshankparmar)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ _"Code, innovate, and build the future!"_ ✨
