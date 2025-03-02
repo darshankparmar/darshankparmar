@@ -46,13 +46,6 @@ I'm a passionate Software Development Engineer specializing in building scalable
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshankparmar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshankparmar&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect with Me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshankparmar)
