@@ -14,5 +14,5 @@ export default defineConfig(({ mode }) => ({
   build: {
     outDir: 'dist', // This should match your workflow
   },
-  plugins: [react()]
+  plugins: [react()].filter(Boolean)
 }));
