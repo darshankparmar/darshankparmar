@@ -11,6 +11,9 @@ export default defineConfig(({ mode }) => ({
     port: 8080,
   },
   base: "/darshankparmar/", // Add this line for GitHub Pages compatibility
+  build: {
+    outDir: 'dist', // This should match your workflow
+  },
   plugins: [
     react(),
     mode === 'development' &&
