@@ -14,14 +14,5 @@ export default defineConfig(({ mode }) => ({
   build: {
     outDir: 'dist', // This should match your workflow
   },
-  plugins: [
-    react(),
-    mode === 'development' &&
-    componentTagger(),
-  ].filter(Boolean),
-  resolve: {
-    alias: {
-      "@": path.resolve(__dirname, "./src"),
-    },
-  },
+  plugins: [react()]
 }));
