@@ -12,6 +12,8 @@ const NotFound = () => {
       "404 Error: User attempted to access non-existent route:",
       location.pathname
     );
+    sessionStorage.redirect = window.location.href;
+    window.location.replace("/");
   }, [location.pathname]);
 
   return (
