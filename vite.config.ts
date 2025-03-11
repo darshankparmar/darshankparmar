@@ -10,7 +10,6 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
-  base: "./", // Add this line for GitHub Pages compatibility
   build: {
     outDir: 'dist', // This should match your workflow
   },
