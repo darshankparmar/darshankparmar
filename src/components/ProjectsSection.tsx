@@ -4,6 +4,13 @@ import { Github, ExternalLink } from "lucide-react";
 export function ProjectsSection() {
   const projects = [
     {
+      title: "IntervueBot: AI-Powered Interview Platform",
+      description: "Open-source AI-powered interview platform using FastAPI and React. Features adaptive interview questions, resume analysis, real-time AI evaluation (Gemini/OpenAI), and detailed candidate reports with hiring recommendations.",
+      technologies: ["FastAPI", "React", "Python", "Agno", "Redis"],
+      github: "https://github.com/darshankparmar/intervueBot",
+      live: ""
+    },
+    {
       title: "Custom Identity Provider (IDP)",
       description: "Developed a custom IDP using .NET and OpenIDDICT library, functioning as an OpenID Connect/OAuth 2.0 server with PKCE support. Implemented third-party authentication via Google, Microsoft, and Keycloak while maintaining centralized identity management.",
       technologies: [".NET", "OpenIDDICT", "OAuth 2.0", "PKCE", "OpenID Connect", "C#"],
@@ -40,11 +47,11 @@ export function ProjectsSection() {
           <h2 className="text-3xl font-bold tracking-tight text-center mb-12">
             <span className="inline-block pb-2 border-b-2 border-primary">Notable Projects</span>
           </h2>
-          
+
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {projects.map((project, index) => (
-              <div 
-                key={index} 
+              <div
+                key={index}
                 className="glass-card rounded-lg p-6 h-full flex flex-col animate-scale-in"
                 style={{ animationDelay: `${index * 0.1}s` }}
               >
@@ -52,9 +59,9 @@ export function ProjectsSection() {
                   <h3 className="text-lg font-semibold">{project.title}</h3>
                   <div className="flex gap-2">
                     {project.github && (
-                      <a 
+                      <a
                         href={project.github}
-                        target="_blank" 
+                        target="_blank"
                         rel="noopener noreferrer"
                         className="text-muted-foreground hover:text-foreground transition-colors"
                         aria-label="View on GitHub"
@@ -63,9 +70,9 @@ export function ProjectsSection() {
                       </a>
                     )}
                     {project.live && (
-                      <a 
+                      <a
                         href={project.live}
-                        target="_blank" 
+                        target="_blank"
                         rel="noopener noreferrer"
                         className="text-muted-foreground hover:text-foreground transition-colors"
                         aria-label="View Live Demo"
@@ -78,8 +85,8 @@ export function ProjectsSection() {
                 <p className="text-muted-foreground text-sm mb-4 flex-1">{project.description}</p>
                 <div className="flex flex-wrap gap-2 mt-auto pt-4">
                   {project.technologies.map((tech, techIndex) => (
-                    <span 
-                      key={techIndex} 
+                    <span
+                      key={techIndex}
                       className="bg-secondary/70 dark:bg-secondary/40 px-2 py-1 rounded-full text-xs"
                     >
                       {tech}
