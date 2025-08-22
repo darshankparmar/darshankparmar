@@ -9,12 +9,12 @@ export function AboutSection() {
           <h2 className="text-3xl font-bold tracking-tight text-center mb-12">
             <span className="inline-block pb-2 border-b-2 border-primary">About Me</span>
           </h2>
-          
+
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div className="space-y-4 animate-slide-in">
               <h3 className="text-2xl font-semibold">Darshan Parmar</h3>
               <p className="text-muted-foreground">
-                Software Development Engineer specializing in scalable architectures, cloud solutions, and high-performance backend systems. 
+                Software Development Engineer specializing in scalable architectures, cloud solutions, and high-performance backend systems.
                 Led a P2P service redesign, boosting NVR capacity 10x and reducing troubleshooting time by 50%.
               </p>
               <div className="pt-4 space-y-3">
@@ -32,11 +32,11 @@ export function AboutSection() {
                 </div>
               </div>
             </div>
-            
+
             <div className="glass-card rounded-lg p-6 animate-scale-in">
               <h3 className="text-xl font-semibold mb-4">Professional Summary</h3>
               <p className="text-muted-foreground mb-4">
-                Skilled in .NET Core, Angular, React, Node.js, Django, and AWS, with expertise in security, 
+                Skilled in FastAPI(Python), .NET Core, Angular, React, Node.js, Django, and AWS, with expertise in security,
                 real-time data streaming, and performance optimization.
               </p>
               <ul className="space-y-2 text-sm">
