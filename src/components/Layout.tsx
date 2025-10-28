@@ -104,6 +104,14 @@ export function Layout({ children }: LayoutProps) {
             >
               LinkedIn
             </a>
+            <a
+              href="https://x.com/darshankparmar"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm font-medium hover-lift"
+            >
+              Twitter
+            </a>
           </div>
         </div>
       </footer>

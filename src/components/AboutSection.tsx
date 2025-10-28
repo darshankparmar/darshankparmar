@@ -14,8 +14,8 @@ export function AboutSection() {
             <div className="space-y-4 animate-slide-in">
               <h3 className="text-2xl font-semibold">Darshan Parmar</h3>
               <p className="text-muted-foreground">
-                Software Development Engineer specializing in scalable architectures, cloud solutions, and high-performance backend systems.
-                Led a P2P service redesign, boosting NVR capacity 10x and reducing troubleshooting time by 50%.
+                A full-stack engineer passionate about building scalable, high-performance systems that blend AI and real-time technology.
+                Always exploring new tools and patterns that make development faster, smarter, and more impactful.
               </p>
               <div className="pt-4 space-y-3">
                 <div className="flex items-center gap-3">
@@ -26,34 +26,34 @@ export function AboutSection() {
                   <Award className="h-5 w-5 text-primary" />
                   <span>Bachelor of Technology in Computer Engineering</span>
                 </div>
-                <div className="flex items-center gap-3">
+                {/* <div className="flex items-center gap-3">
                   <Briefcase className="h-5 w-5 text-primary" />
                   <span>Matrix Comsec Pvt. Ltd. - IPVS (Server Team)</span>
-                </div>
+                </div> */}
               </div>
             </div>
 
             <div className="glass-card rounded-lg p-6 animate-scale-in">
               <h3 className="text-xl font-semibold mb-4">Professional Summary</h3>
               <p className="text-muted-foreground mb-4">
-                Skilled in FastAPI(Python), .NET Core, Angular, React, Node.js, Django, and AWS, with expertise in security,
+                Skilled in FastAPI(Python), Node.js, .NET Core, Angular, React, Django, and AWS, with expertise in security,
                 real-time data streaming, and performance optimization.
               </p>
               <ul className="space-y-2 text-sm">
                 <li className="flex items-start gap-2">
-                  <span className="text-primary mt-1">▹</span>
+                  <span className="text-primary">✍🏼 </span>
                   <span>Expertise in developing secure, scalable backend systems</span>
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="text-primary mt-1">▹</span>
+                  <span className="text-primary">✍🏼 </span>
                   <span>Experience with real-time communication protocols</span>
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="text-primary mt-1">▹</span>
+                  <span className="text-primary">✍🏼 </span>
                   <span>Skilled in cloud architecture and performance optimization</span>
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="text-primary mt-1">▹</span>
+                  <span className="text-primary">✍🏼 </span>
                   <span>Strong background in security implementation and compliance</span>
                 </li>
               </ul>

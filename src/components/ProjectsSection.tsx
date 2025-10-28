@@ -4,6 +4,13 @@ import { Github, ExternalLink } from "lucide-react";
 export function ProjectsSection() {
   const projects = [
     {
+      title: "AI Resume Analyzer",
+      description: "An AI-driven resume analysis tool built with FastAPI and React. It matches resumes against job descriptions, generates detailed scoring reports, and provides insights for recruiters to identify the best candidates efficiently. Features include multi-resume upload, ATS-friendly parsing, and exportable structured JSON outputs compatible with rxresu.me.",
+      technologies: ["FastAPI", "React", "Python", "Agno"],
+      github: "https://github.com/darshankparmar/resume-analyzer",
+      live: ""
+    },
+    {
       title: "IntervueBot: AI-Powered Interview Platform",
       description: "Open-source AI-powered interview platform using FastAPI and React. Features adaptive interview questions, resume analysis, real-time AI evaluation (Gemini/OpenAI), and detailed candidate reports with hiring recommendations.",
       technologies: ["FastAPI", "React", "Python", "Agno", "Redis"],

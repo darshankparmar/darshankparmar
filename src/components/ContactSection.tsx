@@ -1,5 +1,5 @@
 
-import { Mail, Github, Linkedin, Phone } from "lucide-react";
+import { Mail, Github, Linkedin, Twitter, Phone } from "lucide-react";
 
 export function ContactSection() {
   return (
@@ -56,6 +56,15 @@ export function ContactSection() {
             >
               <Linkedin className="h-5 w-5" />
               <span className="text-sm font-medium">LinkedIn</span>
+            </a>
+            <a 
+              href="https://x.com/darshankparmar" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="flex items-center gap-2 hover-lift"
+            >
+              <Twitter className="h-5 w-5" />
+              <span className="text-sm font-medium">Twitter</span>
             </a>
           </div>
         </div>

@@ -7,7 +7,7 @@ export function SkillsSection() {
     },
     {
       category: "Backend",
-      skills: [".NET Core", "Node.js", "Django", "FastAPI(Python)"]
+      skills: ["Node.js", "Django", "FastAPI(Python)", ".NET Core"]
     },
     {
       category: "Database",

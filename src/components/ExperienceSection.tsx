@@ -5,7 +5,7 @@ export function ExperienceSection() {
       title: "Software Development Engineer",
       company: "Matrix Comsec Pvt. Ltd. - IPVS (Server Team)",
       location: "Vadodara",
-      duration: "Jan 2023 - Present",
+      duration: "Jan 2023 - Sep 2025",
       responsibilities: [
         "Redesigned P2P service architecture for mobile-to-NVR communication, increasing capacity from 3,000+ to 30,000+ NVRs.",
         "Developed a new Angular-based P2P service dashboard, reducing troubleshooting time by 50% through interactive visual load analysis and real-time monitoring.",
@@ -16,6 +16,17 @@ export function ExperienceSection() {
         "Established BACNET protocol support, enhancing product functionality and facilitating integration with building automation systems.",
         "Implemented OCSP in PKI systems, increasing certificate verification efficiency.",
         "Optimized video streaming and playback with RTSP and PiPOver, reducing latency and improving performance."
+      ]
+    },
+    {
+      title: "Web Developer",
+      company: "Freelancing",
+      location: "India",
+      duration: "Jul 2025 - Oct 2025",
+      responsibilities: [
+        "Built a feature-rich dashboard using React (TypeScript), Material-UI, and modern patterns (hooks, context API) with role-based access for distributors, retailers, and admins.",
+        "Implemented shift-based order flows (morning/evening), real-time stock updates, and responsive UI components for large-scale operations.",
+        "Enabled bulk operations, file uploads, and dynamic forms to support scalable and efficient business processes."
       ]
     },
     {
@@ -62,7 +73,7 @@ export function ExperienceSection() {
                 <ul className="space-y-2 text-sm mt-4">
                   {experience.responsibilities.map((responsibility, idx) => (
                     <li key={idx} className="flex items-start gap-2">
-                      <span className="text-primary mt-1">▹</span>
+                      <span className="text-primary">✍🏼 </span>
                       <span>{responsibility}</span>
                     </li>
                   ))}
