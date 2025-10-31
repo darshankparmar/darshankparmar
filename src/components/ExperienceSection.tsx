@@ -19,9 +19,9 @@ export function ExperienceSection() {
       ]
     },
     {
-      title: "Web Developer",
-      company: "Freelancing",
-      location: "India",
+      title: "Full Stack Developer",
+      company: "Freelance",
+      location: "Remote",
       duration: "Jul 2025 - Oct 2025",
       responsibilities: [
         "Built a feature-rich dashboard using React (TypeScript), Material-UI, and modern patterns (hooks, context API) with role-based access for distributors, retailers, and admins.",
