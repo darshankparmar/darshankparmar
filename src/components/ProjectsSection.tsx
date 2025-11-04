@@ -11,6 +11,13 @@ export function ProjectsSection() {
       live: ""
     },
     {
+      title: "LiveCaptions Transcriber",
+      description: "Enhanced real-time speech transcription tool based on Windows LiveCaptions with continuous text display and modern UI. Features text selection, copy functionality, overlay mode for gaming/streaming, history logging, and automatic startup options. Perfect for meetings, lectures, accessibility needs, and content creation.",
+      technologies: ["C#", ".NET 8.0", "WPF-UI", "Windows LiveCaptions API"],
+      github: "https://github.com/darshankparmar/LiveCaptions-Transcriber",
+      live: "https://github.com/darshankparmar/LiveCaptions-Transcriber/releases/tag/v1.0.0.0"
+    },
+    {
       title: "IntervueBot: AI-Powered Interview Platform",
       description: "Open-source AI-powered interview platform using FastAPI and React. Features adaptive interview questions, resume analysis, real-time AI evaluation (Gemini/OpenAI), and detailed candidate reports with hiring recommendations.",
       technologies: ["FastAPI", "React", "Python", "Agno", "Redis"],
