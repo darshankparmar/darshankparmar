@@ -3,23 +3,27 @@ export function SkillsSection() {
   const skillCategories = [
     {
       category: "Frontend",
-      skills: ["Angular", "React", "WPF"]
+      skills: ["React", "Angular", "WPF"]
     },
     {
       category: "Backend",
-      skills: ["Node.js", "Django", "FastAPI(Python)", ".NET Core"]
+      skills: ["Node.js", "Express.js", "FastAPI", ".NET Core", "Django"]
     },
     {
       category: "Database",
-      skills: ["SQL Server", "PostgreSQL", "MongoDB"]
+      skills: ["PostgreSQL", "MongoDB", "SQL Server", "Redis"]
     },
     {
       category: "DevOps & Cloud",
-      skills: ["AWS", "Docker"]
+      skills: ["AWS", "Azure", "Docker", "GitHub Actions (CI/CD)"]
     },
     {
-      category: "Security and Networking",
-      skills: ["OAuth2", "WebRTC", "PKCE", "TCP/UDP", "RTSP"]
+      category: "Security & Networking",
+      skills: ["OAuth 2.0", "OIDC", "PKCE", "WebRTC", "RTSP", "BACnet", "TCP/UDP"]
+    },
+    {
+      category: "Other Tools & Concepts",
+      skills: ["Microservices", "System Design", "REST APIs", "Clean Architecture", "Agile & Mentorship"]
     }
   ];
 

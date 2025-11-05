@@ -2,20 +2,20 @@
 export function ExperienceSection() {
   const experiences = [
     {
-      title: "Software Development Engineer",
-      company: "Matrix Comsec Pvt. Ltd. - IPVS (Server Team)",
-      location: "Vadodara",
+      title: "Software Engineer",
+      company: "Matrix Comsec Pvt. Ltd.",
+      location: "Vadodara, Gujarat, India",
       duration: "Jan 2023 - Sep 2025",
       responsibilities: [
-        "Redesigned P2P service architecture for mobile-to-NVR communication, increasing capacity from 3,000+ to 30,000+ NVRs.",
-        "Developed a new Angular-based P2P service dashboard, reducing troubleshooting time by 50% through interactive visual load analysis and real-time monitoring.",
-        "Integrated WhatsApp Meta, WebRTC, and HLS protocols to advance communication services.",
-        "Implemented OAuth with PKCE, improving authentication security and user management.",
-        "Developed a mobile push video feature, enabling mobile devices to function as CCTV cameras and optimize video streaming.",
-        "Enhanced security by ensuring full OWASP STQC compliance, mitigating 95% of critical vulnerabilities and passing all Fortify and Parasoft security audits.",
-        "Established BACNET protocol support, enhancing product functionality and facilitating integration with building automation systems.",
-        "Implemented OCSP in PKI systems, increasing certificate verification efficiency.",
-        "Optimized video streaming and playback with RTSP and PiPOver, reducing latency and improving performance."
+        "Architected and optimized P2P communication services, scaling system capacity from 3K+ to 30K+ NVRs.",
+        "Built an Angular-based monitoring dashboard, cutting troubleshooting time by 50% with real-time visual analytics.",
+        "Integrated WhatsApp Meta, WebRTC, and HLS for advanced communication workflows and media streaming.",
+        "Implemented OAuth 2.0 with PKCE, enhancing multi-tenant security and centralized user management.",
+        "Developed mobile video push capabilities, enabling phones to function as CCTV devices with optimized streaming.",
+        "Ensured complete OWASP and STQC compliance, mitigating 95% of vulnerabilities and achieving zero security incidents.",
+        "Added BACnet protocol support, expanding integration with building automation and IoT systems.",
+        "Implemented OCSP within PKI infrastructure, improving digital certificate validation and response efficiency.",
+        "Enhanced RTSP playback and PiPOver handling, reducing video latency and improving overall performance."
       ]
     },
     {
@@ -24,21 +24,21 @@ export function ExperienceSection() {
       location: "Remote",
       duration: "Jul 2025 - Oct 2025",
       responsibilities: [
-        "Built a feature-rich dashboard using React (TypeScript), Material-UI, and modern patterns (hooks, context API) with role-based access for distributors, retailers, and admins.",
-        "Implemented shift-based order flows (morning/evening), real-time stock updates, and responsive UI components for large-scale operations.",
-        "Enabled bulk operations, file uploads, and dynamic forms to support scalable and efficient business processes."
+        "Developed a multi-role dashboard for distributors and retailers using React (TypeScript) and Material-UI.",
+        "Implemented real-time stock synchronization, shift-based ordering, and modular UI components for high-volume workflows.",
+        "Created scalable modules for bulk operations, dynamic forms, and file handling, improving efficiency across users."
       ]
     },
     {
-      title: "Full Stack Developer and Member",
+      title: "Lead Organizer & Developer",
       company: "Mitram Group",
-      location: "Nadiad",
-      duration: "Oct 2021 - Dec 2022",
+      location: "Nadiad, Gujarat, India",
+      duration: "Sep 2021 - Dec 2022",
       responsibilities: [
-        "Designed an event management portal using MERN Stack, streamlining check-ins for 1,000+ attendees with QR-based validation.",
-        "Integrated UPI payment gateway, processing 1,000+ transactions securely.",
-        "Deployed the application on AWS (EC2, Amplify), supporting 600+ real-time users and handling 1,000+ daily views.",
-        "Led event logistics, marketing, and staffing, ensuring seamless event execution for over 1,000+ attendees."
+        "Founded and led a student-run tech organization hosting large-scale campus events for 1,000+ participants.",
+        "Developed an event management platform using the MERN stack with QR-based entry validation and UPI payment integration.",
+        "Deployed on AWS (EC2, Amplify) for real-time scalability, supporting 600+ concurrent users and 1K+ daily views.",
+        "Oversaw logistics, marketing, and execution teams to ensure seamless event operations and user engagement."
       ]
     }
   ];
@@ -50,11 +50,11 @@ export function ExperienceSection() {
           <h2 className="text-3xl font-bold tracking-tight text-center mb-12">
             <span className="inline-block pb-2 border-b-2 border-primary">Work Experience</span>
           </h2>
-          
+
           <div className="space-y-12">
             {experiences.map((experience, index) => (
-              <div 
-                key={index} 
+              <div
+                key={index}
                 className="glass-card rounded-lg p-6 animate-fade-in"
                 style={{ animationDelay: `${index * 0.1}s` }}
               >
@@ -69,7 +69,7 @@ export function ExperienceSection() {
                     {experience.duration}
                   </div>
                 </div>
-                
+
                 <ul className="space-y-2 text-sm mt-4">
                   {experience.responsibilities.map((responsibility, idx) => (
                     <li key={idx} className="flex items-start gap-2">

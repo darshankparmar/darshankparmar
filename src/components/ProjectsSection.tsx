@@ -5,54 +5,54 @@ export function ProjectsSection() {
   const projects = [
     {
       title: "AI Resume Analyzer",
-      description: "An AI-driven resume analysis tool built with FastAPI and React. It matches resumes against job descriptions, generates detailed scoring reports, and provides insights for recruiters to identify the best candidates efficiently. Features include multi-resume upload, ATS-friendly parsing, and exportable structured JSON outputs compatible with rxresu.me.",
-      technologies: ["FastAPI", "React", "Python", "Agno"],
+      description:
+        "An AI-powered resume evaluation engine built with FastAPI and React that matches resumes to job descriptions using contextual scoring. Supports multi-resume uploads, ATS parsing, and structured JSON export compatible with rxresu.me for recruiter automation.",
+      technologies: ["FastAPI", "React", "Python", "Agno", "PostgreSQL"],
       github: "https://github.com/darshankparmar/resume-analyzer",
       live: ""
     },
     {
       title: "LiveCaptions Transcriber",
-      description: "Enhanced real-time speech transcription tool based on Windows LiveCaptions with continuous text display and modern UI. Features text selection, copy functionality, overlay mode for gaming/streaming, history logging, and automatic startup options. Perfect for meetings, lectures, accessibility needs, and content creation.",
+      description:
+        "A real-time speech transcription tool extending Windows LiveCaptions with continuous text display, overlay mode, and modern WPF UI. Ideal for meetings, accessibility, and content creation with support for history logging and quick copy/export.",
       technologies: ["C#", ".NET 8.0", "WPF-UI", "Windows LiveCaptions API"],
       github: "https://github.com/darshankparmar/LiveCaptions-Transcriber",
       live: "https://github.com/darshankparmar/LiveCaptions-Transcriber/releases/tag/v1.0.0.0"
     },
     {
-      title: "IntervueBot: AI-Powered Interview Platform",
-      description: "Open-source AI-powered interview platform using FastAPI and React. Features adaptive interview questions, resume analysis, real-time AI evaluation (Gemini/OpenAI), and detailed candidate reports with hiring recommendations.",
+      title: "IntervueBot – AI Interview Platform",
+      description:
+        "An open-source AI-powered interview platform with adaptive questioning, resume analysis, and automated evaluation via Gemini/OpenAI APIs. Generates real-time candidate scoring and hiring recommendations for recruiters.",
       technologies: ["FastAPI", "React", "Python", "Agno", "Redis"],
       github: "https://github.com/darshankparmar/intervueBot",
       live: ""
     },
     {
       title: "Custom Identity Provider (IDP)",
-      description: "Developed a custom IDP using .NET and OpenIDDICT library, functioning as an OpenID Connect/OAuth 2.0 server with PKCE support. Implemented third-party authentication via Google, Microsoft, and Keycloak while maintaining centralized identity management.",
+      description:
+        "A .NET-based identity provider using OpenIDDICT, implementing secure OAuth 2.0 and OpenID Connect flows with PKCE. Supports federated authentication via Google, Microsoft, and Keycloak for centralized identity management.",
       technologies: [".NET", "OpenIDDICT", "OAuth 2.0", "PKCE", "OpenID Connect", "C#"],
       github: "https://github.com/darshankparmar/custom-idp",
       live: ""
     },
     {
       title: "Real-Time Collaborative Tree Editor",
-      description: "A collaborative tree editor allowing multiple users to work simultaneously on hierarchical data structures with real-time synchronization across all connected clients. Features conflict resolution and versioning control.",
+      description:
+        "A collaborative editor enabling multiple users to manipulate hierarchical data structures in real-time with WebSocket synchronization. Includes conflict resolution, version control, and responsive UI for teamwork scenarios.",
       technologies: ["React", "Node.js", "Socket.io", "MySQL", "Express", "WebSockets"],
       github: "https://github.com/darshankparmar/Real-Time-Collaborative-Tree-Editor",
       live: ""
     },
     {
       title: "Restaurant Management System",
-      description: "Comprehensive restaurant management solution featuring inventory tracking, order management, table reservations, and detailed sales analytics. Includes responsive design optimized for both staff and management interfaces.",
-      technologies: ["Django", "Python", "Sqlite", "JavaScript", "Bootstrap"],
+      description:
+        "A full-stack restaurant operations suite with inventory tracking, order management, and analytics dashboards. Designed for responsive access and seamless staff coordination across web interfaces.",
+      technologies: ["Django", "Python", "SQLite", "JavaScript", "Bootstrap"],
       github: "https://github.com/darshankparmar/Restaurant_management_system",
-      live: ""
-    },
-    {
-      title: "Event Management Portal",
-      description: "Complete event management platform with user registration, ticketing, attendee tracking, and scheduling capabilities. Includes QR code-based check-in systems and integrated payment processing for seamless event operations.",
-      technologies: ["React", "Node.js", "MongoDB", "Express", "QR Code", "Payment Gateway"],
-      github: "https://github.com/darshankparmar/event-management",
       live: ""
     }
   ];
+
 
   return (
     <section id="projects" className="py-16 md:py-24">
