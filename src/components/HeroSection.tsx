@@ -80,17 +80,17 @@ export function HeroSection() {
             </div>
 
             {/* CTA buttons */}
-            <div className="flex flex-col sm:flex-row gap-4 pt-8 justify-center">
+            <div className="flex flex-col sm:flex-row items-center gap-6 pt-8 justify-center max-w-md mx-auto">
               <a 
                 href="#contact"
-                className="group relative inline-flex h-12 items-center justify-center rounded-lg bg-primary px-10 text-base font-medium text-primary-foreground shadow-lg shadow-primary/25 transition-all hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-0.5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
+                className="group relative inline-flex h-12 w-full sm:w-52 items-center justify-center rounded-lg bg-primary px-6 text-base font-medium text-primary-foreground shadow-lg shadow-primary/25 transition-all hover:shadow-xl hover:shadow-primary/30 hover:-translate-y-0.5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
               >
                 <span className="relative z-10">Contact Me</span>
                 <div className="absolute inset-0 rounded-lg bg-gradient-to-r from-primary to-primary/80 opacity-0 group-hover:opacity-100 transition-opacity"></div>
               </a>
               <a 
                 href="#experience"
-                className="group relative inline-flex h-12 items-center justify-center rounded-lg border-2 border-primary/20 bg-background/50 backdrop-blur-sm px-10 text-base font-medium shadow-sm transition-all hover:border-primary/50 hover:bg-accent hover:shadow-md hover:-translate-y-0.5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
+                className="group relative inline-flex h-12 w-full sm:w-52 items-center justify-center rounded-lg border-2 border-primary/20 bg-background/50 backdrop-blur-sm px-6 text-base font-medium shadow-sm transition-all hover:border-primary/50 hover:bg-accent hover:shadow-md hover:-translate-y-0.5 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
               >
                 View Experience
               </a>
@@ -100,7 +100,7 @@ export function HeroSection() {
       </div>
 
       {/* Scroll indicator - fixed positioning */}
-      <div className="absolute bottom-3 left-1/2 -translate-x-1/2 z-20 animate-bounce">
+      <div className="absolute bottom-3 left-1/2.1 -translate-x-1/2 z-20 animate-bounce">
         <a 
           href="#about" 
           aria-label="Scroll to About section"
